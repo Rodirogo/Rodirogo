@@ -34,5 +34,5 @@ Meu objetivo é evoluir como desenvolvedor, criando projetos cada vez mais compl
 ## 📫 Contato
 
 - GitHub: [https://github.com/Rodirogo](https://github.com/Rodirogo)
-- LinkedIn: [www.linkedin.com/in/rodrigo-manhães-cosenza-075373302]
-- E-mail: [rodrigocosenza8@gmail.com]
+- LinkedIn: www.linkedin.com/in/rodrigo-manhães-cosenza-075373302
+- E-mail: rodrigocosenza8@gmail.com
